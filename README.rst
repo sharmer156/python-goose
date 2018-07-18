@@ -3,7 +3,8 @@ Python-Goose - Article Extractor |Build Status|
 
 Intro
 -----
-
+Goose最初是用Java编写的文章提取器，最近(2011年8月)被转换为scala项目。
+这是在Python中完成的重写。该软件的目的是获取任何新闻文章或文章类型的网页，不仅提取文章的主体，而且提取所有元数据和最可能的图像候选。
 Goose was originally an article extractor written in Java that has most
 recently (Aug2011) been converted to a `scala project <https://github.com/GravityLabs/goose>`_.
 
